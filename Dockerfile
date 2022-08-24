@@ -1,3 +1,3 @@
-FROM python:latest
+FROM debian:latest
 
 CMD ["echo", "HelloWorld"]
